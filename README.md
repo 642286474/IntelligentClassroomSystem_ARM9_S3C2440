@@ -1,0 +1,2 @@
+# IntelligentClassroomSystem_ARM9_S3C2440
+系统基于ARM9的S3C2440开发板进行开发
